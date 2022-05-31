@@ -1,0 +1,85 @@
+.navbar {
+  background-color: grey;
+  color: inherit;
+}
+
+.amazon-logo {
+  height: 20px;
+  text-align: center;
+}
+
+.top-orange-banner {
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+}
+
+.head {
+  text-align: center;
+  background-image: url('assets/bg-image.png');
+  background-size: cover;
+  color: white;
+}
+
+.column {
+  display: inline-block;
+  align-items: center;
+  padding: 0px 5px 3px 3px;
+
+}
+
+h3 {
+  text-align: left;
+  float: left;
+}
+
+h4 {
+  text-align: center;
+  margin-top: auto;
+}
+
+h5 {
+  text-align: center;
+  margin-top: auto;
+}
+
+.first-container {
+
+  background-size: cover;
+}
+
+.second-container {
+  width: 100%;
+  background-size: cover;
+}
+
+.third-container {
+  background-image: url('assets/img_10.png');
+  background-size: cover;
+  height: 50px;
+}
+
+.back-to-top {
+  background-color: grey;
+  height: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.col-image {
+  padding-bottom: 20px;
+  border-radius: 40px;
+  height: 300px;
+  width: 358px
+}
+
+.second-image {
+  width: 100%;
+}
+
+.grand-div {
+  align-items: center;
+  padding: 10px;
+}
